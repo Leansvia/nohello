@@ -1,0 +1,82 @@
+﻿<!doctype html>
+<html lang="en" dir="ltr">
+  
+  <head>
+    <title>no hello</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <!-- primary meta -->
+    <meta name="title" content="no hello">
+    <meta name="description" content="please don't say just hello in chat">
+    <!-- opengraph/facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nohello.net/">
+    <meta property="og:title" content="no hello">
+    <meta property="og:description" content="please don't say just hello in chat">
+    <meta property="og:image" content="https://nohello.net/img/XzfE_FYNGc-500.webp">
+    <!-- twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://nohello.net/">
+    <meta property="twitter:title" content="no hello">
+    <meta property="twitter:description" content="please don't say just hello in chat">
+    <meta property="twitter:image" content="https://nohello.net/img/XzfE_FYNGc-500.webp">
+    <!-- icons -->
+    <link rel="apple-touch-icon" href="img/rduOO4qVxo-180.webp">
+    <link rel="shortcut icon" href="img/xJUIlk3eTz-180.webp" type="image/x-icon">
+    <link rel="icon" href="img/xJUIlk3eTz-180.webp" type="image/x-icon">
+
+    
+    <link rel="alternate" hreflang="en" href="en/index.htm">
+    
+    <link rel="alternate" hreflang="cs" href="cs/index.htm">
+    
+    <link rel="alternate" hreflang="de" href="de/index.htm">
+    
+    <link rel="alternate" hreflang="es" href="es/index.htm">
+    
+    <link rel="alternate" hreflang="fa" href="fa/index.htm">
+    
+    <link rel="alternate" hreflang="fr" href="fr/index.htm">
+    
+    <link rel="alternate" hreflang="he" href="he/index.htm">
+    
+    <link rel="alternate" hreflang="id" href="id/index.htm">
+    
+    <link rel="alternate" hreflang="it" href="it/index.htm">
+    
+    <link rel="alternate" hreflang="pl" href="pl/index.htm">
+    
+    <link rel="alternate" hreflang="pt" href="pt/index.htm">
+    
+    <link rel="alternate" hreflang="pt-br" href="pt-br/index.htm">
+    
+    <link rel="alternate" hreflang="ru" href="ru/index.htm">
+    
+    <link rel="alternate" hreflang="sv" href="sv/index.htm">
+    
+    <link rel="alternate" hreflang="tr" href="tr/index.htm">
+    
+    <link rel="alternate" hreflang="uk" href="uk/index.htm">
+    
+    <link rel="alternate" hreflang="vi" href="vi/index.htm">
+    
+    <link rel="alternate" hreflang="zh-cn" href="zh-cn/index.htm">
+    
+    <link rel="alternate" hreflang="x-default" href="index.htm">
+  </head>
+  <body>
+    <script type="module">
+import { languageMatcher } from '/js/languageMatcher.js';
+
+const langs = ['en','cs','de','es','fa','fr','he','id','it','pl','pt','pt-br','ru','sv','tr','uk','vi','zh-cn',];
+
+const base = langs[0];
+const preferred = localStorage.getItem('lang');
+
+const destination = languageMatcher(langs, base, preferred, navigator.language);
+window.location = destination;
+</script>
+
+  <!-- Cloudflare Pages Analytics --><script defer="" src='beacon.min.js' data-cf-beacon='{"token": "68ea3b3051d14cadbf42d0067031239a"}'></script><!-- Cloudflare Pages Analytics --></body>
+</html>
