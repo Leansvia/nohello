@@ -5,4 +5,4 @@
 - 18 Farklı Dil Secenegi
 - Hertürlü Sorun İcin Discord - Leansx
 
-<img src="https://i.hizliresim.com/fwilcik.png" alt="alt text" width="500" height="300">
+<img src="https://i.hizliresim.com/fwilcik.png" alt="alt text" width="500" height="500">
