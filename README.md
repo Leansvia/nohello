@@ -1,10 +1,24 @@
-# No Hello Web Site
+# Merhaba Demeyi Önermeyen Web Sitesi
 
-- No Hello Web Site HTML-CSS-JS
-- Kullanıma Acık
-- 18 Farklı Dil Secenegi
-- Hertürlü Sorun İcin Discord - Leansx
+Bu proje, kullanıcıların "merhaba" demek yerine alternatif selamlaşma yöntemlerini kullanmalarını teşvik eden bir web sitesi oluşturmak için tasarlanmıştır.
 
-<img src="https://i.hizliresim.com/fwilcik.png" alt="alt text" width="800" height="400">
-<img src="https://i.hizliresim.com/6x0j4zw.png" alt="alt text" width="800" height="400">
+## Özellikler
 
+- "Merhaba" dememeyi teşvik eden mesajlar
+- Kullanıcı dostu arayüz
+- Modern ve minimalist tasarım
+
+## Kurulum
+
+1. Bu projeyi klonlayın:
+    ```sh
+    git clone https://github.com/kullaniciadi/proje-adi.git
+    ```
+
+2. Proje dosyalarını bir web sunucusuna veya tarayıcınızda açın:
+    - `index.html` dosyasını bir web tarayıcısında açın.
+
+## Ekran Görüntüsü
+
+![Web Sitesi Görüntüsü](https://i.hizliresim.com/fwilcik.png)
+![Web Sitesi Görüntüsü](https://i.hizliresim.com/6x0j4zw.png)
