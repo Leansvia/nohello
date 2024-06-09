@@ -7,6 +7,7 @@ Bu proje, kullanıcıların "merhaba" demek yerine alternatif selamlaşma yönte
 - "Merhaba" dememeyi teşvik eden mesajlar
 - Kullanıcı dostu arayüz
 - Modern ve minimalist tasarım
+- 18 dil desteği English Čeština Deutsch Español فارسی Français עברית Bahasa Indonesia Italiano Polski Português Português do Brasil русский svenska Türkçe Українська Tiếng Việt 简体中文
 
 ## Kurulum
 
